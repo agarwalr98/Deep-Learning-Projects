@@ -1,5 +1,4 @@
-# use google colab to run below code 
-https://colab.research.google.com/drive/19gQeOfy4V2fMdhS2Ni1lRFLe-9bFZA26
+
 
 # %matplotlib inline
 import matplotlib.pyplot as plt
