@@ -7,7 +7,7 @@ Those noisy(low quality ) images were converted into high quality images by pass
 ### dataset can be download using this link.
 https://drive.google.com/open?id=1ZHvyPRM_LeoJWXnBn82uNgyYJ_IUgRCD
 
-###Output Images for different values of mean && stddev can be find using this link.
+### Output Images for different values of mean && stddev can be find using this link.
 https://drive.google.com/open?id=1bxostBVLC4p-1ESHNLNStuKkP2pvT978
 
 
