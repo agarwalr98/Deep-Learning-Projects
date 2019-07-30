@@ -20,11 +20,11 @@ num_filters2= 36        #There are 36 of these filters.
 #Fully -connected layer.
 fc_size = 128           # Number of neurons in fully-connected layer.
 
-import os
-work_dir = "/content/TensorFlow-Tutorials/"
-if os.getcwd() != work_dir:
-  !git clone https://github.com/Hvass-Labs/TensorFlow-Tutorials
-os.chdir(work_dir)
+# import os
+# work_dir = "/content/TensorFlow-Tutorials/"
+# if os.getcwd() != work_dir:
+#   !git clone https://github.com/Hvass-Labs/TensorFlow-Tutorials
+# os.chdir(work_dir)
 
 from mnist import MNIST
 data = MNIST(data_dir="data/MNIST/")
