@@ -1,3 +1,8 @@
+# format of output images
+# input
+# painted
+# output
+
 import os
 import torch
 import torchvision
@@ -27,7 +32,7 @@ def to_img(x):
     return x
 
 
-num_epochs = 30
+num_epochs = 50
 batch_size = 40
 learning_rate = 1e-3
 # decay = 0.001
