@@ -12,9 +12,9 @@ This folder contains the output images and graph for low quality images obtained
 
 ### Format of resultant Image
 The frame of resultant images contain Input, Noisy and Generated(Output) images in following order - 
-Input Images - At top 
-Noisy Images - At middle 
-Generated or Output Images - At Bottom
+1. Input Images - At top 
+2. Noisy Images - At middle 
+3. Generated or Output Images - At Bottom
 
 ### dataset can be download using this link.
 https://drive.google.com/open?id=1ZHvyPRM_LeoJWXnBn82uNgyYJ_IUgRCD
